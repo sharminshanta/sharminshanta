@@ -9,7 +9,7 @@
 ![jQuery](https://camo.githubusercontent.com/b7d88da17ae845a4e2140a1b089f3a01e9d65aa2611e57c44975b7da2b5d0ea0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)
 ![Redis](https://camo.githubusercontent.com/767482659083bec220ab2ce18d86f01a799f7454f35040edd4baf38f1dac4a40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f267374796c653d666c61742d737175617265266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)
 
-I have been working as a backend developer for the past 5 years, primarily working in PHP with frameworks. I also have extensive working knowledge of various third-party APIs.
+I have been working as a backend developer for the past 5 years, primarily working in PHP with frameworks and MySQL. I'm open to work.
 
 Technical Proficiencies
 - Programming Language: PHP, Javascript
@@ -20,8 +20,7 @@ Technical Proficiencies
 - Javascript Framework: jQuery
 - CSS Framework: Twitter Bootstrap, Foundation
 - Software Architecture Pattern: MVC (Model View Controller)
-- Development Tools and Technologies: GIT,
-- Composer,oAuth 2.0, PSRs, Memcached, Redis, Monolog(application logger), Build RESTFul APIs, etc.
+- Development Tools and Technologies: GIT, Composer, oAuth 2.0, PSRs, Memcached, Redis, Monolog(application logger), Build RESTFul APIs, etc.
 - Utilities and IDE: JetBrains PhpStorm, JetBrains WebStorm, Mysql Workbench, Kibana, Postman, GitHub, GitLab,
 - BitBucket, Slack etc.
 - Operating System: Ubuntu
