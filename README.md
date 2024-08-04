@@ -26,3 +26,6 @@ Technical Proficiencies
 - BitBucket, Slack etc.
 - Operating System: Ubuntu
 
+### I am available
+[Linkedin](https://www.linkedin.com/in/sharminshanta/)
+
