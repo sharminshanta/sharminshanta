@@ -22,7 +22,7 @@ Technical Proficiencies
 - Python Framework: Django
 - Javascript Utilities: jQuery, Ajax
 - CSS Framework: Twitter Bootstrap, Foundation
-- Software Architecture Pattern: MVC (Model View Controller)
+- Software Architecture Pattern: MVC(Model View Controller), MVT(Model View Template), MVVM(Model View ViewModel)
 - Development Tools and Technologies: GIT, Composer, oAuth 2.0, PSRs, Memcached, Redis, Monolog(application logger), Build RESTFul APIs, etc.
 - Utilities and IDE: JetBrains PhpStorm, JetBrains WebStorm, Mysql Workbench, Kibana, Postman, GitHub, GitLab,
 - BitBucket, Slack etc.
