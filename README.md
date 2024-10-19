@@ -20,7 +20,7 @@ Technical Proficiencies
 - Template Engine: Twig, Blade
 - PHP Framework: Laravel, Lumen, CodeIgniter, Magento(2.4), and Slim
 - Python Framework: Django
-- Javascript Framework: jQuery
+- Javascript Utilities: jQuery, Ajax
 - CSS Framework: Twitter Bootstrap, Foundation
 - Software Architecture Pattern: MVC (Model View Controller)
 - Development Tools and Technologies: GIT, Composer, oAuth 2.0, PSRs, Memcached, Redis, Monolog(application logger), Build RESTFul APIs, etc.
