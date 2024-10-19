@@ -19,6 +19,7 @@ Technical Proficiencies
 - Database ORM: Eloquent, RedBeanPHP, CakePHP ORM
 - Template Engine: Twig, Blade
 - PHP Framework: Laravel, Lumen, CodeIgniter, Magento(2.4), and Slim
+- Python Framework: Django
 - Javascript Framework: jQuery
 - CSS Framework: Twitter Bootstrap, Foundation
 - Software Architecture Pattern: MVC (Model View Controller)
