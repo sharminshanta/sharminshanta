@@ -14,17 +14,17 @@
 I have been a backend developer for the past 5 years, primarily in PHP with frameworks and SQL/NoSQL. I'm open to work.
 
 Technical Proficiencies
-- Programming Language: PHP, Python, Javascript
+- Programming Language: PHP, Python, JavaScript
 - Database: MySQL, MongoDB, Elasticsearch & Redis
 - Database ORM: Eloquent, RedBeanPHP, CakePHP ORM
 - Template Engine: Twig, Blade
 - PHP Framework: Laravel, Lumen, CodeIgniter, Magento(2.4), and Slim
 - Python Framework: Django
-- Javascript Utilities: jQuery, Ajax
+- JavaScript Utilities: jQuery, Ajax
 - CSS Framework: Twitter Bootstrap, Foundation
 - Software Architecture Pattern: MVC(Model View Controller), MVT(Model View Template), MVVM(Model View ViewModel)
-- Development Tools and Technologies: GIT, Composer, oAuth 2.0, PSRs, Memcached, Redis, Monolog(application logger), Build RESTFul APIs, etc.
-- Utilities and IDE: JetBrains PhpStorm, JetBrains WebStorm, Mysql Workbench, Kibana, Postman, GitHub, GitLab,
+- Development Tools and Technologies: GIT, Composer, OAuth 2.0, PSRs, Memcached, Redis, Monolog(application logger), Build RESTful APIs, etc.
+- Utilities and IDE: JetBrains PhpStorm, JetBrains WebStorm, MySQL Workbench, Kibana, Postman, GitHub, GitLab,
 - BitBucket, Slack etc.
 - Operating System: Ubuntu
 
