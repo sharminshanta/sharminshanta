@@ -11,7 +11,7 @@
 ![Bootstrap](https://camo.githubusercontent.com/896f1d717aba9e79ab96214a806283754fb7aa84818a73424c14058706b21961/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="50" height="35">
 
-I have been working as a backend developer for the past 5 years, primarily working in PHP with frameworks and MySQL. I'm open to work.
+I have been a backend developer for the past 5 years, primarily in PHP with frameworks and SQL/NoSQL. I'm open to work.
 
 Technical Proficiencies
 - Programming Language: PHP, Python, Javascript
